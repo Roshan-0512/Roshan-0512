@@ -30,7 +30,7 @@ My interests lie in quantitative research, systematic trading, and financial dat
 
 ---
 
-### What I Work On
+### Areas of Work
 
 - Developing quantitative models for financial markets
 - Designing and evaluating systematic trading strategies
