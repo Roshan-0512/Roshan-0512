@@ -18,6 +18,18 @@ My interests lie in quantitative research, systematic trading, and financial dat
 
 ---
 
+### Skills & Tools
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • C++ • SQL |
+| **Machine Learning** | Scikit-learn • XGBoost • LightGBM • TensorFlow • Pandas • NumPy |
+| **Quantitative Finance** | VectorBT • Backtesting.py • Statsmodels • yFinance |
+| **Data Visualization** | Matplotlib • Plotly |
+| **Developer Tools** | Git • Linux • Jupyter Notebook |
+
+---
+
 ### Focus Areas
 
 - Quantitative Research
