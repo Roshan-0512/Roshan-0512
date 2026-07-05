@@ -12,9 +12,9 @@ Building quantitative systems using machine learning, statistics, and data-drive
 
 ### About Me
 
-I am a B.Tech graduate in Mechanical Engineering from **IIT Madras** with an interest in **Quantitative Finance, Machine Learning, and Statistical Modeling**.
+I am a B.Tech graduate in **Mechanical Engineering** from **IIT Madras** with an interest in **Quantitative Finance, Machine Learning, and Statistical Modeling**. I enjoy applying mathematics, programming, and statistics to solve analytical problems and develop data-driven solutions.
 
-My work is centered around developing quantitative models and data-driven solutions using mathematics, statistics, and programming. I enjoy exploring financial markets, building systematic trading strategies, and applying machine learning to solve complex analytical problems.
+My interests lie in quantitative research, systematic trading, and financial data analysis. I am particularly interested in understanding financial markets through statistical methods, developing robust predictive models, and exploring machine learning techniques for quantitative decision-making. I value writing clean, reproducible code and continuously improving my understanding of quantitative methods and modern machine learning.
 
 ---
 
