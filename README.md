@@ -23,7 +23,6 @@ I build projects at the intersection of **Machine Learning**, **Quantitative Fin
 * Turning messy data into meaningful insights
 * Building tools that solve real-world problems
 * Learning new technologies and challenging myself
-* Coffee, curiosity, and debugging at 2 AM ☕
 
 > *"Great software isn't just about writing code—it's about solving the right problems."*
 
