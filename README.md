@@ -23,12 +23,43 @@ My work focuses on developing quantitative trading strategies, financial models,
 
 ## Skills & Tools
 
-| Category | Technologies |
-|----------|--------------|
-| Languages | Python • C++ • SQL |
-| Machine Learning | Scikit-learn • XGBoost • LightGBM • TensorFlow |
-| Quantitative Finance | Backtesting.py • VectorBT • Pandas • NumPy |
-| Data Analysis | Matplotlib • Statsmodels • Git |
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+</td>
+
+<td valign="top" width="35%">
+
+**Machine Learning**
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge">
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+</td>
+
+<td valign="top" width="40%">
+
+**Quant & Data**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/VectorBT-1E90FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Backtesting.py-444444?style=for-the-badge">
+<img src="https://img.shields.io/badge/Statsmodels-00599C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
+
+</td>
+</tr>
+</table>
 
 ---
 <div align="center">
