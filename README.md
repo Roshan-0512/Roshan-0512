@@ -1,4 +1,4 @@
-# Hi, I'm Roshan 👋
+# Hi, I'm Roshan
 
 Mechanical Engineering student at IIT Madras who enjoys solving problems with data, code, and mathematics.
 
