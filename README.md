@@ -24,20 +24,19 @@ My interests lie in quantitative research, systematic trading, and financial dat
 |----------|--------------|
 | **Languages** | Python • C++ • SQL |
 | **Machine Learning** | Scikit-learn • XGBoost • LightGBM • TensorFlow • Pandas • NumPy |
-| **Quantitative Finance** | VectorBT • Backtesting.py • Statsmodels • yFinance |
+| **Quantitative Finance** | Backtesting.py • yFinance |
 | **Data Visualization** | Matplotlib • Plotly |
 | **Developer Tools** | Git • Linux • Jupyter Notebook |
 
 ---
 
-### Focus Areas
+### What I Work On
 
-- Quantitative Research
-- Algorithmic Trading
-- Financial Time Series Analysis
-- Portfolio Optimization
-- Statistical Learning
-- Artificial Intelligence
+- Developing quantitative models for financial markets
+- Designing and evaluating systematic trading strategies
+- Applying machine learning to predictive modeling
+- Analyzing financial time series and market data
+- Building Python tools for research and automation
 
 ---
 
