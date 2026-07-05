@@ -11,33 +11,26 @@ Building intelligent systems for quantitative finance, machine learning, and alg
 
 ---
 
-# About Me
+---
 
-I'm a graduate in **Mechanical Engineering** from **IIT Madras**, passionate about **Quantitative Finance, Machine Learning, Artificial Intelligence, and Statistical Modeling**.
+## About Me
 
-I enjoy building data-driven systems that combine mathematics, programming, and finance to solve challenging real-world problems. My interests include developing quantitative trading strategies, statistical models, and machine learning algorithms for financial markets.
+I am a **B.Tech graduate in Mechanical Engineering from IIT Madras** with a strong interest in **Quantitative Finance, Machine Learning, and Statistical Modeling**.
 
-Currently, I'm focused on quantitative research, systematic trading, time-series analysis, portfolio optimization, and AI-driven financial modeling.
+My work focuses on developing quantitative trading strategies, financial models, and machine learning solutions for data-intensive problems. I enjoy applying mathematics, programming, and statistics to build robust and interpretable systems.
 
 ---
 
-# What I'm Working On
+## Skills & Tools
 
-- Portfolio optimization and risk management
-- Developing quantitative trading strategies and alpha factors
-- Statistical modeling for financial markets
-- Machine learning models for financial prediction
-
----
-
-# Skills & Tools
-
-| Languages | Machine Learning | Quant Finance | Data Analysis |
-|-----------|-----------------|--------------|--------------|
-| Python • C++ • SQL | Scikit-Learn • XGBoost • LightGBM • TensorFlow | Backtesting.py • VectorBT • yFinance • Pandas | NumPy • Matplotlib • Statsmodels • Prophet |
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python • C++ • SQL |
+| Machine Learning | Scikit-learn • XGBoost • LightGBM • TensorFlow |
+| Quantitative Finance | Backtesting.py • VectorBT • Pandas • NumPy |
+| Data Analysis | Matplotlib • Statsmodels • Git |
 
 ---
-
 <div align="center">
 
 *"Turning data into decisions through mathematics, machine learning, and quantitative research."*
