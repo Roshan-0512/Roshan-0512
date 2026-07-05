@@ -4,8 +4,8 @@
 
 Building quantitative systems using machine learning, statistics, and data-driven research.
 
-[roshanzambare213@gmail.com] • [Roshan Zambare] 
-
+[![Email](https://img.shields.io/badge/Email-roshanzambare213@gmail.com-red?style=flat-square&logo=gmail)](mailto:roshanzambare213@gmail.com) •
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Zambare-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/roshan-zambare-304905253/) 
 </div>
 
 ---
