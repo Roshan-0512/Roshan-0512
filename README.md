@@ -21,23 +21,11 @@ Currently, I'm focused on quantitative research, systematic trading, time-series
 
 ---
 
-# Interests
-
-- Quantitative Research
-- Quantitative Trading
-- Machine Learning & Artificial Intelligence
-- Statistical Modeling
-- Financial Time Series Analysis
-- Algorithmic Trading
-- Portfolio Optimization
-
----
-
 # What I'm Working On
 
+- Portfolio optimization and risk management
 - Developing quantitative trading strategies and alpha factors
 - Statistical modeling for financial markets
-- Portfolio optimization and risk management
 - Machine learning models for financial prediction
 
 ---
@@ -47,26 +35,6 @@ Currently, I'm focused on quantitative research, systematic trading, time-series
 | Languages | Machine Learning | Quant Finance | Data Analysis |
 |-----------|-----------------|--------------|--------------|
 | Python • C++ • SQL | Scikit-Learn • XGBoost • LightGBM • TensorFlow | Backtesting.py • VectorBT • yFinance • Pandas | NumPy • Matplotlib • Statsmodels • Prophet |
-
----
-
-# Research Interests
-
-- Quantitative Finance
-- Statistical Learning
-- Financial Engineering
-- Systematic Trading
-- Time Series Forecasting
-- Optimization
-
----
-
-# Open To
-
-- Quantitative Research Roles
-- Quantitative Trading Roles
-- Machine Learning Engineering
-- AI & Finance Research
 
 ---
 
