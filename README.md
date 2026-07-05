@@ -2,44 +2,41 @@
 
 # Roshan Zambare
 
-Building intelligent systems for quantitative finance, machine learning, and algorithmic trading.
+Building quantitative systems using machine learning, statistics, and data-driven research.
 
-[![Email](https://img.shields.io/badge/Email-roshanzambare213@gmail.com-red?style=flat-square&logo=gmail)](mailto:roshanzambare213@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Zambare-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/roshan-zambare-304905253/))
+[roshanzambare213@gmail.com] • [Roshan Zambare] 
 
 </div>
 
 ---
 
----
-
 ### About Me
-----
 
-I am a **B.Tech graduate in Mechanical Engineering from IIT Madras** with a strong interest in **Quantitative Finance, Machine Learning, and Statistical Modeling**.
+I am a B.Tech graduate in Mechanical Engineering from IIT Madras with an interest in quantitative finance, machine learning, and statistical modeling.
 
-My work focuses on developing quantitative trading strategies, financial models, and machine learning solutions for data-intensive problems. I enjoy applying mathematics, programming, and statistics to build robust and interpretable systems.
+I enjoy applying mathematics, statistics, and programming to solve data-driven problems, with a particular focus on systematic trading, financial modeling, and predictive analytics.
+
+---
+
+### Skills & Tools
+
+| Languages | Machine Learning | Quantitative Finance | Tools |
+|-----------|------------------|----------------------|-------|
+| Python • C++ • SQL | Scikit-learn • XGBoost • LightGBM • TensorFlow | Pandas • NumPy • VectorBT • Backtesting.py • Statsmodels | Git • Linux • Jupyter |
 
 ---
 
-### Skills
----
+### Open To
 
-**Languages**  
-Python • C++ • SQL
-
-**Machine Learning**  
-Scikit-Learn • XGBoost • LightGBM • TensorFlow
-
-**Quantitative Finance**  
-VectorBT • Backtesting.py • Statsmodels • Pandas • NumPy
-
-**Tools**  
-Git • Linux • Jupyter Notebook
+- Quantitative Research
+- Quantitative Trading
+- Machine Learning
+- AI & Data Science
 
 ---
+
 <div align="center">
 
-*"Turning data into decisions through mathematics, machine learning, and quantitative research."*
+*"Good decisions come from good data, sound statistics, and disciplined thinking."*
 
 </div>
