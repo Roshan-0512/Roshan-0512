@@ -1,29 +1,77 @@
-# Hi, I'm Roshan
+<div align="center">
 
-Mechanical Engineering student at IIT Madras who enjoys solving problems with data, code, and mathematics.
+# Roshan Zambare
 
-I build projects at the intersection of **Machine Learning**, **Quantitative Finance**, and **Software Engineering**—from designing systematic trading strategies and backtesting frameworks to developing intelligent data-driven applications.
+Building intelligent systems for quantitative finance, machine learning, and algorithmic trading.
 
-### What I'm currently working on
+[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-red?style=flat-square&logo=gmail)](mailto:roshanzambare213@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Zambare-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/roshan-zambare-304905253/))
 
-* Quantitative research and systematic trading strategies
-* Machine learning and predictive modeling
-* Building scalable Python applications and automation tools
-* Statistical modeling and data analytics
+</div>
 
-### Tech Stack
+---
 
-* **Languages:** Python, C++
-* **ML & Data:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM
-* **Quant:** Backtesting.py, VectorBT, Time Series Analysis
-* **Tools:** Git, Jupyter Notebook, VS Code
+# About Me
 
-### Things I enjoy
+I'm a graduate in **Mechanical Engineering** from **IIT Madras**, passionate about **Quantitative Finance, Machine Learning, Artificial Intelligence, and Statistical Modeling**.
 
-* Turning messy data into meaningful insights
-* Building tools that solve real-world problems
-* Learning new technologies and challenging myself
+I enjoy building data-driven systems that combine mathematics, programming, and finance to solve challenging real-world problems. My interests include developing quantitative trading strategies, statistical models, and machine learning algorithms for financial markets.
 
-> *"Great software isn't just about writing code—it's about solving the right problems."*
+Currently, I'm focused on quantitative research, systematic trading, time-series analysis, portfolio optimization, and AI-driven financial modeling.
 
-I'm always excited to collaborate on interesting projects, contribute to open source, and keep learning.
+---
+
+# Interests
+
+- Quantitative Research
+- Quantitative Trading
+- Machine Learning & Artificial Intelligence
+- Statistical Modeling
+- Financial Time Series Analysis
+- Algorithmic Trading
+- Portfolio Optimization
+
+---
+
+# What I'm Working On
+
+- Developing quantitative trading strategies and alpha factors
+- Statistical modeling for financial markets
+- Portfolio optimization and risk management
+- Machine learning models for financial prediction
+
+---
+
+# Skills & Tools
+
+| Languages | Machine Learning | Quant Finance | Data Analysis |
+|-----------|-----------------|--------------|--------------|
+| Python • C++ • SQL | Scikit-Learn • XGBoost • LightGBM • TensorFlow | Backtesting.py • VectorBT • yFinance • Pandas | NumPy • Matplotlib • Statsmodels • Prophet |
+
+---
+
+# Research Interests
+
+- Quantitative Finance
+- Statistical Learning
+- Financial Engineering
+- Systematic Trading
+- Time Series Forecasting
+- Optimization
+
+---
+
+# Open To
+
+- Quantitative Research Roles
+- Quantitative Trading Roles
+- Machine Learning Engineering
+- AI & Finance Research
+
+---
+
+<div align="center">
+
+*"Turning data into decisions through mathematics, machine learning, and quantitative research."*
+
+</div>
