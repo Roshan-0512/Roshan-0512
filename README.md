@@ -10,7 +10,7 @@ Building quantitative systems using machine learning, statistics, and data-drive
 
 ---
 
-#### About Me
+### About Me
 
 I am a B.Tech graduate in Mechanical Engineering from **IIT Madras** with an interest in **Quantitative Finance, Machine Learning, and Statistical Modeling**.
 
@@ -18,7 +18,7 @@ My work is centered around developing quantitative models and data-driven soluti
 
 ---
 
-#### Skills & Tools
+### Skills & Tools
 
 <table>
 <tr>
@@ -70,7 +70,7 @@ Jupyter Notebook
 
 ---
 
-#### Focus Areas
+### Focus Areas
 
 - Quantitative Research
 - Algorithmic Trading
