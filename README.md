@@ -14,6 +14,7 @@ Building intelligent systems for quantitative finance, machine learning, and alg
 ---
 
 ### About Me
+---
 
 I am a **B.Tech graduate in Mechanical Engineering from IIT Madras** with a strong interest in **Quantitative Finance, Machine Learning, and Statistical Modeling**.
 
@@ -22,6 +23,7 @@ My work focuses on developing quantitative trading strategies, financial models,
 ---
 
 ### Skills
+---
 
 **Languages**  
 Python • C++ • SQL
