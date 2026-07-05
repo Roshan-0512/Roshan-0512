@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Roshan 👋
 
-<!--
-**Roshan-0512/Roshan-0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student at IIT Madras who enjoys solving problems with data, code, and mathematics.
 
-Here are some ideas to get you started:
+I build projects at the intersection of **Machine Learning**, **Quantitative Finance**, and **Software Engineering**—from designing systematic trading strategies and backtesting frameworks to developing intelligent data-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently working on
+
+* Quantitative research and systematic trading strategies
+* Machine learning and predictive modeling
+* Building scalable Python applications and automation tools
+* Statistical modeling and data analytics
+
+### Tech Stack
+
+* **Languages:** Python, C++
+* **ML & Data:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM
+* **Quant:** Backtesting.py, VectorBT, Time Series Analysis
+* **Tools:** Git, Jupyter Notebook, VS Code
+
+### Things I enjoy
+
+* Turning messy data into meaningful insights
+* Building tools that solve real-world problems
+* Learning new technologies and challenging myself
+* Coffee, curiosity, and debugging at 2 AM ☕
+
+> *"Great software isn't just about writing code—it's about solving the right problems."*
+
+I'm always excited to collaborate on interesting projects, contribute to open source, and keep learning.
