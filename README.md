@@ -4,7 +4,7 @@
 
 Building intelligent systems for quantitative finance, machine learning, and algorithmic trading.
 
-[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-red?style=flat-square&logo=gmail)](mailto:roshanzambare213@gmail.com)
+[![Email](https://img.shields.io/badge/Email-roshanzambare213@gmail.com-red?style=flat-square&logo=gmail)](mailto:roshanzambare213@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Zambare-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/roshan-zambare-304905253/))
 
 </div>
